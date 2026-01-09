@@ -1,0 +1,19 @@
+-- Project: Funnel Analysis (Desktop vs Mobile)
+-- BigQuery Project: funnel-analysis-483703
+-- Dataset: funnel_analysis_data
+-- Raw table: raw_funnel_users -- Data created with Chat-GPT to mimic real world scenario
+--
+-- Goal:
+-- 1) Clean raw clickstream/funnel user-level data
+-- 2) Create a device-level funnel summary (counts + conversion rates)
+-- 3) Create a long-format table for visualization in Tableau
+--
+-- Funnel definition (5 stages):
+-- Step 1: App Open (Awareness)
+-- Step 2: Content View
+-- Step 3: Ad View
+-- Step 4: Ad Click
+-- Step 5: Purchase
+--
+-- Key segmentation:
+-- Device Type (Desktop vs Mobile)
