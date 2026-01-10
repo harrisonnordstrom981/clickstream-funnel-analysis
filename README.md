@@ -10,8 +10,6 @@ The objective of this analysis is to move beyond surface-level metrics and provi
 
 The project demonstrates an end-to-end analytics workflow using **SQL (BigQuery)** for data modeling and **Tableau** for visualization.
 
----
-
 ## Dashboard Preview
 
 
@@ -20,7 +18,7 @@ The project demonstrates an end-to-end analytics workflow using **SQL (BigQuery)
 
 
 ## Funnel Structure
--- The funnel consists of 5 major stages; 
+The funnel consists of 5 major stages; 
 1) Awareness - The user opening the app/site
 2) Content View - User engages with content
 3) Ad Click - User interacts with an advertisement
@@ -54,12 +52,12 @@ Two visualizations were created;
 
 ## About Me
 ### Harrison Nordstrom
-### Data Analytics | Virgina Tech 2026 | Economics - College of Science | nordstromharrison@gmail.com
+### Data Analytics | Virgina Tech 2026 | Economics - College of Science | nordstromharrison@gmail.com | www.linkedin.com/in/nordstromharrison
 
 This project can be found on my Tableau Account;
 https://public.tableau.com/views/FunnelPerformancebyDeviceType/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 This project is part of my portfolio that demonstrated my problem solving skills and technical proficiency
-www.linkedin.com/in/nordstromharrison
+
 
 
