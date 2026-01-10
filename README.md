@@ -53,11 +53,10 @@ Two visualizations were created;
 ## About Me
 ### Harrison Nordstrom
 ### Data Analytics | Virgina Tech 2026 | Economics - College of Science | nordstromharrison@gmail.com | www.linkedin.com/in/nordstromharrison
+### This project is part of my portfolio that demonstrated my problem solving skills and technical proficiency
 
 This project can be found on my Tableau Account;
 https://public.tableau.com/views/FunnelPerformancebyDeviceType/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-
-This project is part of my portfolio that demonstrated my problem solving skills and technical proficiency
 
 
 
